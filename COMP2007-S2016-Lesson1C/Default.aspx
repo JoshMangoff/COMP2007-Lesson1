@@ -69,7 +69,7 @@
         </div>
     </div>
     <!-- JavaScript -->
-    <script src="Scripts/jquery-1.9.1.min.js"></script>
+    <script src="Scripts/jquery-2.2.3.min.js"></script>
     <script src="Scripts/bootstrap.min.js"></script>
 </body>
 </html>
